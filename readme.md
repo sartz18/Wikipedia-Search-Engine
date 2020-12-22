@@ -43,4 +43,4 @@ https://dumps.wikimedia.org/enwiki/latest/
 
 <h3> Sample Result </h3>
 
-![](sample/s1.png)
+![](sample/s3.png)
