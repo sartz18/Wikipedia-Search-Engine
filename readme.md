@@ -13,12 +13,11 @@ https://dumps.wikimedia.org/enwiki/latest/
 
   
 ### About Project
-•Implemented a Wikipedia Search Engine in Python. Based on Information Retrieval, which uses k-way merge sort to handle over 75GB wiki-dump files.
+•Implemented a Wikipedia Search Engine in Python. Based on Information Retrieval, which uses k-way merge sort to handle over 75GB wiki-dump files.<br>
 •Display search-results using page relevance ranking based on tf-idf scores.
-Built Search Engine Platform by creating Inverted Index on the Wikipedia Data Dump of size 76 GB.
 
 
-###Following Steps Follows to create Inverted Indexes
+### Following Steps Follows to create Inverted Indexes
 
 * Parsing using etree : Need to parse each page , title tag, infobox, categorybox.
 * Tokenization  : Tokenize sentense to get each token using regular expression
@@ -44,7 +43,7 @@ Built Search Engine Platform by creating Inverted Index on the Wikipedia Data Du
 
 <h3> Sample Result </h3>
 
-![Screenshot (73)](https://user-images.githubusercontent.com/41481020/98722383-1ac46d00-23b7-11eb-8ac3-1e5b1e22f049.png)
+![Screenshot (73)](https://drive.google.com/file/d/1S4XPNtM73ek-9lmJi-GgnMnwB4hCjzV-/view?usp=sharing)
 
 
  
