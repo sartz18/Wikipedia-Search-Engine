@@ -43,9 +43,4 @@ https://dumps.wikimedia.org/enwiki/latest/
 
 <h3> Sample Result </h3>
 
-![Screenshot (73)](https://drive.google.com/file/d/1S4XPNtM73ek-9lmJi-GgnMnwB4hCjzV-/view?usp=sharing)
-
-
- 
-  
-   
+![](sample/s1.png)
